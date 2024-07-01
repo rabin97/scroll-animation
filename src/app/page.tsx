@@ -222,22 +222,22 @@ export default function Home() {
       >
         <div className="size-full grid grid-cols-3 ">
           <div className="p-6 flex z-30 items-end">
-            <div className="w-[80%] relative  bg-[#FAE50A] h-[70%] rounded-2xl">
-              <div className="text-[6vh] font-semibold text-white absolute bottom-[2%] left-1/2 transform -translate-x-1/2">Lemon</div>
+            <div className="w-full  md:w-[80%] relative  bg-[#FAE50A] h-[70%] rounded-2xl">
+              <div className=" text-sm md:text-[6vh]   font-semibold text-white absolute bottom-[2%] left-1/2 transform -translate-x-1/2 pb-3">Lemon</div>
 
             </div>
 
           </div>
           <div className="p-6 flex items-end ">
-            <div className="w-[80%] relative bg-[#FE5D37] h-[70%] rounded-2xl">
-              <div className="text-[6vh] font-semibold text-white absolute bottom-[2%] left-1/2 transform -translate-x-1/2">Orange</div>
+            <div className="w-full  md:w-[80%]  relative bg-[#FE5D37] h-[70%] rounded-2xl">
+              <div className="text-sm md:text-[6vh] font-semibold text-white absolute bottom-[2%] left-1/2 transform -translate-x-1/2 pb-3">Orange</div>
 
             </div>
 
           </div>
           <div className="p-6 flex items-end ">
-            <div className="w-[80%] relative bg-[#579604] h-[70%] rounded-2xl">
-              <div className="text-[6vh] font-semibold text-white absolute bottom-[2%] left-1/2 transform -translate-x-1/2">Fruit</div>
+            <div className=" w-full md:w-[80%] relative bg-[#579604] h-[70%] rounded-2xl">
+              <div className="text-sm md:text-[6vh] font-semibold text-white absolute bottom-[2%] left-1/2 transform -translate-x-1/2 pb-3">Fruit</div>
 
             </div>
 
